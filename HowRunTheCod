@@ -1,0 +1,2 @@
+g++ main.cpp -o run 
+./run input.txt output.txt
